@@ -1,0 +1,12 @@
+{
+  "name": "aternos-bot",
+  "version": "1.0.0",
+  "main": "afkbot.js",
+  "type": "module",
+  "dependencies": {
+    "bedrock-protocol": "^3.52.0"
+  },
+  "scripts": {
+    "start": "node afkbot.js"
+  }
+}
